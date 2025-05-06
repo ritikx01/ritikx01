@@ -1,39 +1,69 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ritikx01&label=Profile%20views&color=0e75b6&style=flat" alt="ritikx01" /> </p>
+# Ritik Singh
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Just+Another+Hand&size=60&pause=1000&center=true&vCenter=true&random=false&width=639&height=100&lines=Hello+there+!!+%F0%9F%91%8B;Myself%2C+Ritik+Singh)](https://git.io/typing-svg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ritik.dev-orange?style=flat-square&logo=firefox-browser)](https://ritik.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ritikx01-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ritikx01)
+[![X (Twitter)](https://img.shields.io/badge/X-@wh15k3yTF-1DA1F2?style=flat-square&logo=x)](https://twitter.com/wh15k3yTF) 
+[![Email](https://img.shields.io/badge/Email-hello@ritik.dev-darkgrey?style=flat-square&logo=gmail)](mailto:hello@ritik.dev) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-ritikx01-yellow?style=flat-square&logo=leetcode)](https://leetcode.com/ritikx01)
 
-***
+---
 
-**Hi, I am Ritik Singh, seeking an opportunity in the field of software engineering. Good knowledge of Python, Linux, Django. Ability to implement a full software development life cycle (SDLC) and analyze the performance of programs to correct deficiencies.**
+## 👋 About Me
 
-Explore my articles [here 📝](https://ritik.dev/blog/)
-<div align="center"> 
-  <a href="https://linkedin.com/in/ritikx01" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-  <a href="https://twitter.com/wh15k3yTF"><img src="https://img.shields.io/badge/X-333333?style=for-the-badge&logo=X&logoColor=white" /></a>
-  <a href="https://ritik.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
-  <a href="mailto:hello@ritik.dev"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
-  <a href="https://ritik.dev" target="_blank"><img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" /></a>
-</div>
+I’m working as a penetration tester for TCS, I also specialize in backend systems and real‑time data pipelines. I have built scalable, resilient services—most recently a production-grade crypto trading bot powered by dynamic technical analysis. With a strong foundation in Programming, Networking, DevOps and Application security, I bridge the gap between development, operations, and security.
 
-***
+- 🎯 **Current Focus**:  
+  - Real‑time crypto trading strategies (EMA, ATR, volume surge models)  
+  - WebSocket‑driven data streaming & Kafka integration  
+  - Infrastructure automation and secure CI/CD  
 
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=python,git,django,bash,docker,linux,selenium,postgres,neovim,kubernetes">
+- 🔐 **Cybersecurity Background**:  
+  - CTF's (CTFTime, HTB and TryHackme)  
+  - WebApp & Infrastructure Pentesting  
+  - Bug bounty & secure coding reviews. 
+  - API and mobile Pentesting
 
-<h4 align="left">Learning:</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,react,redis">
+---
 
-***
-<div>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikx01&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ritikx01" /></p>
+## 💼 Professional Experience
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikx01&show_icons=true&locale=en&theme=dracula" alt="ritikx01" /></p>
+**Tata Consultancy Services (TCS)** — Cyber Security Engineer, BFSI Unit  
+_Feb 2025 – Present_  
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikx01&theme=dracula" alt="ritikx01" /></p>
-</div>
+**GreyOrange** — QA Engineer  
+_Jan 2025 – Feb 2025_  
 
-***
+**Fleek Technologies** — Security Intern  
+_Sep 2024 – Dec 2024_  
 
-<h3>My contributions:</h3>
+---
 
-![snake gif](https://raw.githubusercontent.com/ritikx01/ritikx01/output/github-contribution-grid-snake.svg)
+## 🚀 Key Projects
+
+### Tarang (Crypto Trading Bot)  
+- **Stack**: TypeScript, Node.js, WebSockets, PostgreSQL, Docker  
+- **Features**:  
+  - Real‑time kline ingestion via Binance WS  
+  - Custom indicator based signals  
+  - Auto‑reconnect, cold‑start resilience, historical data retention  
+  - Signal & outcome storage with Prisma ORM  
+
+### Creatify (AI Image generator)  
+- Gradio and HugginFace based Flux schnell image generator   
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikx01&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikx01&layout=compact&theme=default" width="48%" />
+</p>
+
+---
+
+## 📚 Featured Blog Posts
+
+- [Building a real‑time trading strategy using WebSockets](https://ritik.dev/blog)  
+- [Deep dive: Finding business logic flaws in modern apps](https://ritik.dev/blog)  
+- [AWS penetration testing: Tools & lessons learned](https://ritik.dev/blog)  
