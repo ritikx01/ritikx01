@@ -1,5 +1,5 @@
 # Ritik Singh
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ritikx01&label=Profile%20views&color=0e75b6&style=flat" alt="ritikx01" /> </p>
 [![Portfolio](https://img.shields.io/badge/Portfolio-ritik.dev-orange?style=flat-square&logo=firefox-browser)](https://ritik.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ritikx01-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ritikx01)
 [![X (Twitter)](https://img.shields.io/badge/X-@wh15k3yTF-1DA1F2?style=flat-square&logo=x)](https://twitter.com/wh15k3yTF) 
